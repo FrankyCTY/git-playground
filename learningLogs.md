@@ -1,6 +1,4 @@
 1. git log
-   console.log(asjdkasjd)
-2. gitasdasd reset
-   console.log('asdasd)
+2. git reset
 3. git revert
 4. git reflog
