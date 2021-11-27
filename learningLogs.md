@@ -1,4 +1,3 @@
 1. git log
-2. git reset
-3. git revert
-4. git reflog
+2. git revert
+3. git reflog
